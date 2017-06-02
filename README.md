@@ -1,4 +1,3 @@
-# coursera
 
 
 ### Algorithms on Strings
