@@ -6,7 +6,7 @@
 * Certification name: Algorithms on Strings
 * Certification authority: Coursera (https://www.coursera.org)
 
->[See Certificate](https://www.coursera.org/account/accomplishments/verify/TQGGF49KEJDH)
+  [See Certificate](https://www.coursera.org/account/accomplishments/verify/TQGGF49KEJDH)
 ----
 
 
@@ -15,7 +15,7 @@
 * Certification name: Data Structures
 * Certification authority: Coursera (https://www.coursera.org)
 
->[See Certificate](https://www.coursera.org/account/accomplishments/verify/2HVF3CTBXHHM)
+  [See Certificate](https://www.coursera.org/account/accomplishments/verify/2HVF3CTBXHHM)
 ----
 
 
@@ -24,7 +24,7 @@
 * Certification name: Algorithmic Toolbox
 * Certification authority: Coursera (https://www.coursera.org)
 
->[See Certificate](https://www.coursera.org/account/accomplishments/verify/YLQVM6EACXBD)
+  [See Certificate](https://www.coursera.org/account/accomplishments/verify/YLQVM6EACXBD)
 ----
 
 
@@ -33,5 +33,5 @@
 * Certification name: Algorithms on Graphs
 * Certification authority: Coursera (https://www.coursera.org)
 
->[See Certificate](https://www.coursera.org/account/accomplishments/verify/8WLHZ2HGMWTX)
+  [See Certificate](https://www.coursera.org/account/accomplishments/verify/8WLHZ2HGMWTX)
 ----
