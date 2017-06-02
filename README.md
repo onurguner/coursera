@@ -1,8 +1,8 @@
 # coursera
 
 
-## Algorithms on Strings
-#### University of California, San Diego & Higher School of Economics
+### Algorithms on Strings
+##### University of California, San Diego & Higher School of Economics
 * Certification name: Algorithms on Strings
 * Certification authority: Coursera (https://www.coursera.org)
 
@@ -10,8 +10,8 @@
 ----
 
 
-## Data Structures
-#### University of California, San Diego & Higher School of Economics
+### Data Structures
+##### University of California, San Diego & Higher School of Economics
 * Certification name: Data Structures
 * Certification authority: Coursera (https://www.coursera.org)
 
@@ -19,8 +19,8 @@
 ----
 
 
-## Algorithmic Toolbox
-#### University of California, San Diego & Higher School of Economics
+### Algorithmic Toolbox
+##### University of California, San Diego & Higher School of Economics
 * Certification name: Algorithmic Toolbox
 * Certification authority: Coursera (https://www.coursera.org)
 
@@ -28,8 +28,8 @@
 ----
 
 
-## Algorithms on Graphs
-#### University of California, San Diego & Higher School of Economics
+### Algorithms on Graphs
+##### University of California, San Diego & Higher School of Economics
 * Certification name: Algorithms on Graphs
 * Certification authority: Coursera (https://www.coursera.org)
 
